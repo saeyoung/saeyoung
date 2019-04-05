@@ -2,7 +2,7 @@
 
 I am a Master’s student at the Massachusetts Institute of Technology (MIT), studying Technology Policy and Computer Science. I am currently working at [CSAIL](https://www.csail.mit.edu/) and supervised by Professor [Devavrat Shah](https://devavrat.mit.edu/).
 
-I develop tools to facilitate causal inference. One of the nice datasets to play with is sports datasets. Using cricket and basketball data, I develop and refine methods to predict score trajectory of a game. This method can be applied to a situation where an intervention was made, to predict the counterfactual outcome. For example, I apply the method in policy analysis, which is a more complex setting.
+I develop tools to facilitate causal inference. One of the nice datasets to play with is sports datasets. Using cricket and basketball data, I develop and refine methods to predict score trajectory of a game. This method can be applied to a situation where an intervention was made, to predict the counterfactual outcome. For example, I apply the method in policy analysis to see the effect of an implemented policy.
 
 If you want to discuss potential collaborative opportunities, I can be reached at srho (at) mit (dot) edu.
 
