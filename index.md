@@ -9,13 +9,13 @@ If you want to discuss potential collaborative opportunities, I can be reached a
 ## Publications
 ### Conference & Journal Papers
 
-**Rho, S.**, Lee, I., Kim, H. K., Jung, J. H., Kim, H., Jeon, B. G., Lim, Y. K. (2017). _“FutureSelf: What Happens When We Forecast Quantified Selfers’ Future Health Statuses?”_ In Proceedings of the 2017 ACM Conference on Designing Interactive Systems (DIS'17): 637-648. Honorable Mention Award.
+**Rho, S.**, Lee, I., Kim, H. K., Jung, J. H., Kim, H., Jeon, B. G., Lim, Y. K. (2017). [“FutureSelf: What Happens When We Forecast Quantified Selfers’ Future Health Statuses?”](https://dl.acm.org/citation.cfm?id=3064676) In Proceedings of the 2017 ACM Conference on Designing Interactive Systems (DIS'17): 637-648. _Honorable Mention Award_.
 
-Kim, D., Lee, Y., **Rho, S.**, and Lim, Y.K. (2016). _“Design Opportunities in Three Stages of Relationship Development between Users and Self-Tracking Devices.”_ In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI '16): 699-703.
+Kim, D., Lee, Y., **Rho, S.**, and Lim, Y.K. (2016). _[“Design Opportunities in Three Stages of Relationship Development between Users and Self-Tracking Devices.”](https://dl.acm.org/citation.cfm?id=2858148) In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI '16): 699-703.
 
-Lee, Y., Kim, M. G., **Rho, S.**, Kim, D. J., and Lim, Y. K. (2015). _"Friends in Activity Trackers: Design Opportunities and Mediator Issues in Health Products and Services."_ In Proceedings of the 2015 International Association of Societies of Design Research (IASDR '15): 1206-1219. Best Paper Award.
+Lee, Y., Kim, M. G., **Rho, S.**, Kim, D. J., and Lim, Y. K. (2015). ["Friends in Activity Trackers: Design Opportunities and Mediator Issues in Health Products and Services."](https://www.researchgate.net/publication/284981584_Friends_in_Activity_Trackers_Design_Opportunities_and_Mediator_Issues_in_Health_Products_and_Services) In Proceedings of the 2015 International Association of Societies of Design Research (IASDR '15): 1206-1219. _Best Paper Award_.
 
-Seok, J. Y., **Rho, S.**, Kim, E. J., Min, B. S., and Suk, H. J. (2015). _“Color Quantization to Visualize Perceptually Dominant Colors of an Image.”_ Journal of Korea Society of Color Studies 29, no. 2 (2015). DOI: 10.17289/jkscs.29.2.201505.95
+Seok, J. Y., **Rho, S.**, Kim, E. J., Min, B. S., and Suk, H. J. (2015). [“Color Quantization to Visualize Perceptually Dominant Colors of an Image.”](http://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001995124) Journal of Korea Society of Color Studies 29, no. 2 (2015). DOI: 10.17289/jkscs.29.2.201505.95
 
 
 ### Thesis
