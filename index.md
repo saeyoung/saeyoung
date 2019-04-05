@@ -1,4 +1,4 @@
-# Hello
+## Hello
 
 I am a Master’s student at the Massachusetts Institute of Technology (MIT), studying Technology Policy and Computer Science. I am currently working at [CSAIL](https://www.csail.mit.edu/) and supervised by Professor [Devavrat Shah](https://devavrat.mit.edu/).
 
