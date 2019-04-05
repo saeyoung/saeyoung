@@ -1,8 +1,8 @@
 # Hello
 
-I am a Master’s student in the Technology and Policy Program (TPP) at the Massachusetts Institute of Technology (MIT), pursuing a dual degree in Computer Science. I am currently working at CSAIL and supervised by Professor Devavrat Shah.
+I am a Master’s student at the Massachusetts Institute of Technology (MIT), studying Technology Policy and Computer Science. I am currently working at [CSAIL](https://www.csail.mit.edu/) and supervised by Professor [Devavrat Shah](https://devavrat.mit.edu/).
 
-I am developing skills in data science and applied statistics. I study how to analyze big data using machine learning and stochastic methodologies to perform desired analysis and modeling. In addition to that, as an interdisciplinary graduate student in TPP, I try to apply the developed method to a real-world situation.
+I develop tools to facilitate causal inference. One of the nice datasets to play with is sports datasets. Using cricket and basketball data, I develop and refine methods to predict score trajectory of a game. This method can be applied to a situation where an intervention was made, to predict the counterfactual outcome. For example, I apply the method in policy analysis, which is a more complex setting.
 
 If you want to discuss potential collaborative opportunities, I can be reached at srho (at) mit (dot) edu.
 
